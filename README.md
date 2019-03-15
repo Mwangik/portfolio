@@ -1,2 +1,3 @@
 # portfolio-grid
-my portfolio grid project
+my portfolio grid project with html,css,bootstrap and javascript
+
