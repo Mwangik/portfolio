@@ -29,8 +29,10 @@ body {
   padding-bottom: 2px;
 }
 .ds{
-  color: #333;
-  font-weight: 500;
+  color: #1a2f84;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-style: italic;
 }
 
 /* mobile
