@@ -28,6 +28,10 @@ body {
   border-bottom: 1px solid #555;
   padding-bottom: 2px;
 }
+.ds{
+  color: #333;
+  font-weight: 500;
+}
 
 /* mobile
 @media (min-width: 1199px) {
