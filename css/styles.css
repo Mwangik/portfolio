@@ -28,7 +28,7 @@ body {
   border-bottom: 1px solid #555;
   padding-bottom: 2px;
 }
-.ds{
+span.ds{
   color: #1a2f84;
   font-weight: 900;
   text-transform: uppercase;
